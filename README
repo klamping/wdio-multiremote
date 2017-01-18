@@ -1,0 +1,8 @@
+# Usage
+
+Example code repo for WebdriverIO multiremote
+
+```
+npm i
+npm test
+```
